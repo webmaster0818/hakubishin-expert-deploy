@@ -3,4 +3,4 @@ Allow: /
 Disallow: /_next/
 Disallow: /api/
 
-Sitemap: https://hakubishin-expert.com/sitemap.xml
+Sitemap: https://hakubishin-expert-navi.com/sitemap.xml
